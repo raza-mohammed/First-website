@@ -403,6 +403,11 @@ body {
     float: none;
   }
 
+  .Collaboration-With .img {
+    width: 100%;
+    height: auto;
+  }
+
   .Collaboration-With h1 {
     font-size: 18px;
     line-height: 28px;
