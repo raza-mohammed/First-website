@@ -1,0 +1,42 @@
+@media (max-width: 1199.5px) {
+  /* custom css */
+  
+}
+
+@media (max-width: 991px) {
+  /* custom css */
+  
+  /* 2 Navbar */
+   
+  /* about */
+  
+
+  /* services */
+   
+}
+
+@media (max-width: 767.5px) {
+  /* custom css */
+  
+  /* Ads */
+  .ads_wrapper .card {
+    flex-direction: column;
+  }
+
+  /* service */
+  
+
+  /* footer */
+  
+}
+
+@media (max-width: 360px) {
+  /* banner */
+  
+
+  /* about */
+  
+
+  /* Ads */
+  
+}
